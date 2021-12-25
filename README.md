@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @emredokuz
+- 👀 I’m interested in mobile games, applications development.
+- 🌱 I’m currently learning ... Unity3D and Xamarin.
+- 💞️ I’m looking to collaborate on ... Unity3D
+- 📫 How to reach me ... emredokuzsup@gmail.com
